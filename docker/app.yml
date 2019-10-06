@@ -1,0 +1,6 @@
+version: '2'
+services:
+  hrcard-app:
+    image: hrcard
+    ports:
+      - 80:80
